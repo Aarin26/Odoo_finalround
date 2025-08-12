@@ -1,11 +1,12 @@
-# Team Number:180 
-# Team Name: Triobytes
-# Team Leader : Aarin shah
-# Member 1: Kavyan Bansal
-# Member 2 : Jahanvi Babariya 
-# Problem Statement Number: 2
-# Problem Statement : Personalized Travel Planning
-Overall Vision
+Team Number:180 <br>
+Team Name: Triobytes <br>
+Team Leader : Aarin shah <br>
+Member 1: Kavyan Bansal <br>
+Member 2 : Jahanvi Babariya  <br>
+Problem Statement Number: 2 <br>
+Problem Statement : Personalized Travel Planning <br>
+Video Drive Link: 
+Overall Vision <br>
 The overarching vision for GlobeTrotter is to become a personalized,
 intelligent, and collaborative platform that transforms the way individu-
 als plan and experience travel. The platform aims to empower users to
