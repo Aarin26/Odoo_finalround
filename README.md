@@ -5,7 +5,7 @@ Member 1: Kavyan Bansal <br>
 Member 2 : Jahanvi Babariya  <br>
 Problem Statement Number: 2 <br>
 Problem Statement : Personalized Travel Planning <br>
-Video Drive Link: 
+Video Drive Link: https://drive.google.com/file/d/1fo_H8XTpflRw3tMRFKTmRO3JOVMB3kSb/view?usp=drivesdk <br>
 Overall Vision <br>
 The overarching vision for GlobeTrotter is to become a personalized,
 intelligent, and collaborative platform that transforms the way individu-
